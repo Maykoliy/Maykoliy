@@ -35,44 +35,6 @@
 
 ---
 
-### 📂 My Projects
-
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 01 | [Greeter](https://github.com/Maykoliy/01-Greeter) | Console app that greets users | ✅ Done |
-| 02 | [Calculator](https://github.com/Maykoliy/02-Calculator) | Basic arithmetic calculator | ✅ Done |
-| 03 | [Number Guessing Game](https://github.com/Maykoliy/03-NumberGuessingGame) | Fun guessing game with hints | ✅ Done |
-| 04 | [Unit Converter](https://github.com/Maykoliy/04-UnitConverter) | Convert between different units | ✅ Done |
-| 05 | [Todo List](https://github.com/Maykoliy/05-TodoList) | Manage your daily tasks | ✅ Done |
-| 06 | [Contact Book](https://github.com/Maykoliy/06-ContactBook) | Store and manage contacts | ✅ Done |
-| 07 | [Quiz App](https://github.com/Maykoliy/07-QuizApp) | Test your knowledge | ✅ Done |
-| 08 | [Bank Account](https://github.com/Maykoliy/08-BankAccount) | OOP-based banking system | 🔄 In Progress |
-| 09 | [Library Manager](https://github.com/Maykoliy/09-LibraryManager) | Book and member management | ⏳ Coming Soon |
-| 10 | [Password Manager](https://github.com/Maykoliy/10-PasswordManager) | Secure password storage | ⏳ Coming Soon |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maykoliy&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykoliy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maykoliy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maykoliy&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <em>"Every expert was once a beginner. Keep coding, keep growing."</em> 💪
 </p>
