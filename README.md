@@ -4,11 +4,6 @@
   <em>A passionate developer on a journey to master C#, .NET, SQL and Web technologies.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maykoliy&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Maykoliy?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
